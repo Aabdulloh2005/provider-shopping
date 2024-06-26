@@ -15,7 +15,7 @@ class OrdersScreen extends StatelessWidget {
       ),
       body: orders.isEmpty
           ? const Center(
-              child: Text("No orders placed yet."),
+              child: Text("Buyurmalar yoq"),
             )
           : ListView.builder(
               itemCount: orders.length,
