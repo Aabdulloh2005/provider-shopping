@@ -1,16 +1,4 @@
-# lesson64
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Aabdulloh2005/provider-shopping/assets/153055444/d73a7716-005c-4fbd-88a2-896cef3633ff
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
